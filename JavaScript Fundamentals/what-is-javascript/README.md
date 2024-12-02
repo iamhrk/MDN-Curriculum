@@ -1,3 +1,5 @@
+[Source](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+
 * API's built on top of core javascript make javascript more powerful.
 ### API example
 * DOM(Document Object Model) API
